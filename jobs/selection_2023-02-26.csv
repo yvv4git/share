@@ -1,4 +1,3 @@
-query,id,name,area_id,area_name,salary_from,salary_to,currency,types_id,types_name,published_at,created_at,archived,employer_id,employer_name,schedule_id,schedule_name
 golang,76533710,Team Lead (Tech Lead) Golang,75,Псков,0,350000,RUR,open,Открытая,2023-02-02T09:55:08+0300,2023-02-02T09:55:08+0300,false,6005443,Кредиска МКК,fullDay,Полный день
 golang,76533703,Team Lead (Tech Lead) Golang,69,Орел,0,350000,RUR,open,Открытая,2023-02-02T09:55:08+0300,2023-02-02T09:55:08+0300,false,6005443,Кредиска МКК,fullDay,Полный день
 golang,77270883,Golang developer,1,Москва,0,0,"",open,Открытая,2023-02-21T11:04:02+0300,2023-02-21T11:04:02+0300,false,9173883,«UZUM TECHNOLOGIES».,remote,Удаленная работа
