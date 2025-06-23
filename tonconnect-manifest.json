@@ -1,0 +1,7 @@
+{
+    "url": "https://ton-connect-demo.vercel.app",
+    "name": "TON Connect Demo",
+    "iconUrl": "https://ton-connect-demo.vercel.app/tonconnect-icon.png",
+    "termsOfUseUrl": "https://ton-connect-demo.vercel.app/terms-of-use.txt",
+    "privacyPolicyUrl": "https://ton-connect-demo.vercel.app/privacy-policy.txt"
+}
